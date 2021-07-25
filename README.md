@@ -1,2 +1,2 @@
-# Project-Navigation-Deep-Reinforcement-Learning
+# Project-Navigation-DeepQ-learning
 Udacity Nanodegree Program -Deep Reinforcement Learning 
